@@ -1,9 +1,9 @@
-public class sample
+public class Hello
 
 {
 	public static void main(String args [])
 	{
-		system.out.println("kits")
+		System.out.println("kits");
 	}
 }
 
